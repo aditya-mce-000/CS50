@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    char s[] = "Hello";
-    printf("%s", s);// s = &s[0]
+    char *s = "Hello";
+    printf("%s\n",s);// s = &s[0]
     return 0;
 }
