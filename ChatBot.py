@@ -1,6 +1,6 @@
 # from groq import Groq#API Key 
 
-# client = Groq(api_key="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")
+# client = Groq(api_key="")
 
 # user_prompt = input("Prompt: ")
 # system_prompt = "Limit your answer to one paragraph. Act like my cute dog."
